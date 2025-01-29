@@ -1,5 +1,5 @@
 {
-  "name": "norman-huth/nova-iframe-popup",
+  "name": "venom9078/nova-iframe-popup",
   "description": "A Laravel Nova field.",
   "keywords": [
     "laravel",
@@ -30,7 +30,7 @@
   "config": {
     "sort-packages": true
   },
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "prefer-stable": true,
   "repositories": [
     {
