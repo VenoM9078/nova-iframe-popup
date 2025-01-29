@@ -1,6 +1,6 @@
 {
-  "name": "roushan/nova-iframe-popup",
-  "description": "A Laravel Nova field. (Nova v5)",
+  "name": "norman-huth/nova-iframe-popup",
+  "description": "A Laravel Nova field.",
   "keywords": [
     "laravel",
     "nova",
@@ -8,7 +8,7 @@
     "laravel-nova-field",
     "nova-field",
     "nova-fields",
-    "nova-5"
+    "nova-4"
   ],
   "license": "MIT",
   "require": {
