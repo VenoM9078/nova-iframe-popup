@@ -36,6 +36,10 @@
     {
       "type": "composer",
       "url": "https://nova.laravel.com"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/VenoM9078/nova-iframe-popup"
     }
   ]
 }
